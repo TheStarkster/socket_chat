@@ -1,0 +1,4 @@
+#Wed Dec 18 03:13:10 IST 2019
+base.0=/home/gurkaran/socket_chat/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
